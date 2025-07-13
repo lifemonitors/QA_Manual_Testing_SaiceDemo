@@ -1,8 +1,8 @@
 # Bug Report – Sorting does not work correctly
 
-Status: Open  
-Severity: Low  
-Priority: Medium  
+Status: Open 
+Severity: Low
+Priority: Medium
 
 ### Steps to Reproduce:
 1. Login at https://www.saucedemo.com  
